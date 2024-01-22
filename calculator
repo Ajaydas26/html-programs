@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>calculator using html css and javascript</title>
+    </head>
+
+    <body>
+        <table class="mycalculator">
+            <tr>
+            <td colspan="3" input class="display-box" type="text" id="result" disabled/>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
